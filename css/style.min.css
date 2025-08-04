@@ -2561,7 +2561,7 @@ h6 {
 }
 @media (any-hover: hover) {
   .menu__link:hover {
-    color: #ffefcc;
+    color: #edaf02;
   }
   .footer__top-menu-item:hover {
     color: #edaf02;
