@@ -2564,12 +2564,12 @@ h6 {
     color: #ffefcc;
   }
   .footer__top-menu-item:hover {
-    color: #ff280c;
+    color: #edaf02;
   }
   .footer__top-social-item:hover {
-    box-shadow: 0 0 0.1875rem #ff280c, 0 0 0.5625rem #ff280c,
-      0 0 1.6875rem #ff280c, inset 0 0 0.1875rem #ff280c,
-      inset 0 0 0.5625rem #ff280c;
+    box-shadow: 0 0 0.1875rem #edaf02, 0 0 0.5625rem #edaf02,
+      0 0 1.6875rem #edaf02, inset 0 0 0.1875rem #edaf02,
+      inset 0 0 0.5625rem #edaf02;
     -webkit-transform: scale(0.95) skewX(-15deg);
     transform: scale(0.95) skewX(-15deg);
   }
@@ -2577,9 +2577,9 @@ h6 {
     text-decoration: underline;
   }
   .hero__social-item:hover {
-    box-shadow: 0 0 0.1875rem #ff280c, 0 0 0.5625rem #ff280c,
-      0 0 1.6875rem #ff280c, inset 0 0 0.1875rem #ff280c,
-      inset 0 0 0.5625rem #ff280c;
+    box-shadow: 0 0 0.1875rem #edaf02, 0 0 0.5625rem #edaf02,
+      0 0 1.6875rem #edaf02, inset 0 0 0.1875rem #edaf02,
+      inset 0 0 0.5625rem #edaf02;
     -webkit-transform: scale(0.95) skewX(-15deg);
     transform: scale(0.95) skewX(-15deg);
   }
@@ -2587,13 +2587,13 @@ h6 {
     border: 0.125rem solid #f2f2f2;
   }
   .about__button:hover {
-    border: 0.125rem solid #ff280c;
+    border: 0.125rem solid #edaf02;
   }
   .about__button:hover span {
-    color: #ff280c;
+    color: #edaf02;
   }
   .about__button:hover svg path {
-    fill: #ff280c;
+    fill: #edaf02;
   }
   .join__button:hover {
     border: 0.125rem solid #f2f2f2;
